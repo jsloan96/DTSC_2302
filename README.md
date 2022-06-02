@@ -1,7 +1,9 @@
 # DTSC_2302 - Course Project
-# Project Dates: 1/2022-5/2022
-# Data Files: 2020 Cooperative Election Study Common Content - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/E9N6PH
-# Reasearch Question: 
+# Project Dates
+1/2022-5/2022
+# Data Files
+2020 Cooperative Election Study Common Content - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/E9N6PH
+# Reasearch Question
 What are the contributing factors that affect US voters' opinion on increased gun control legislation?
 # Overview
 The main research question our group wants to answer is whether or not proximity to a city is a contributing factor specifically that correlates with support for increased gun control legislation. This would be valuable for policy discussions if we knew more about why some people oppose gun control. Gun control has been a huge topic of discussion in this day in age on whether or not assault rifles are too readily available to the public.
