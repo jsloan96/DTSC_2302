@@ -1,0 +1,52 @@
+State,State Code,stateid,newid
+Alaska,AK,1,1
+Alabama,AL,2,2
+Arkansas,AR,4,3
+Arizona,AZ,5,4
+California,CA,6,5
+Colorado,CO,8,6
+Connecticut,CT,9,7
+District of Columbia,DC,10,8
+Delaware,DE,11,9
+Florida,FL,12,10
+Georgia,GA,13,11
+Hawaii,HI,15,12
+Iowa,IA,16,13
+Idaho,ID,17,14
+Illinois,IL,18,15
+Indiana,IN,19,16
+Kansas,KS,20,17
+Kentucky,KY,21,18
+Louisiana,LA,22,19
+Massachusetts,MA,23,20
+Maryland,MD,24,21
+Maine,ME,25,22
+Michigan,MI,26,23
+Minnesota,MN,27,24
+Missouri,MO,28,25
+Mississippi,MS,29,26
+Montana,MT,30,27
+North Carolina,NC,31,28
+North Dakota,ND,32,29
+Nebraska,NE,33,30
+New Hampshire,NH,34,31
+New Jersey,NJ,35,32
+New Mexico,NM,36,33
+Nevada,NV,37,34
+New York,NY,38,35
+Ohio,OH,39,36
+Oklahoma,OK,40,37
+Oregon,OR,41,38
+Pennsylvania,PA,42,39
+Rhode Island,RI,44,40
+South Carolina,SC,45,41
+South Dakota,SD,46,42
+Tennessee,TN,47,43
+Texas,TX,48,44
+Utah,UT,49,45
+Virginia,VA,50,46
+Vermont,VT,51,47
+Washington,WA,53,48
+Wisconsin,WI,54,49
+West Virginia,WV,55,50
+Wyoming,WY,56,51
